@@ -5,7 +5,7 @@ A simple web-based visualizer for CPU scheduling algorithms.
 
 ## 🚀 Live Demo
 
-👉 [View it on Vercel](https://cpu-scheduling-visulizer.vercel.app/)
+👉 [View it on Vercel](https://cpu-scheduling-algo-visualiser.vercel.app/)
 
 
 ## 📂 Project Structure
